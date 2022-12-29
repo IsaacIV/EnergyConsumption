@@ -8,5 +8,3 @@ https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-popul
 - Then I combined all the countries in North America to see how much CO2 has been released into the atmosphere from the North American continent.
 
 - Lastly I looked at the total emissions from the globe as a whole.
-
-Currently I have not updated anything to the Main Branch, if you want to see what I have currently done please look at the 'Visualizations' branch.
